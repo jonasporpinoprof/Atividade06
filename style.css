@@ -1,0 +1,10 @@
+#texto3{
+  font-size: 38px;
+  font-family: Arial;
+  color: #007000;
+  background:#93c893; 
+  border:none; 
+}
+#texto3:hover{
+  background-color: #06bc1b;
+}
